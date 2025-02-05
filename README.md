@@ -1,2 +1,2 @@
 # vipplav-scraped
-This code contains vipplav ai scraped funciton
+This code contains vipplav ai scraped function
